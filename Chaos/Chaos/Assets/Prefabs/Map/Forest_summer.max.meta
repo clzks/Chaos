@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 2e9c1a2cad0f47547b3fb66679ec02c0
+timeCreated: 1522984460
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base01
+    100002: base01 1
+    100004: base01 2
+    100006: base01 3
+    100008: base01 4
+    100010: base01 5
+    100012: base01 6
+    100014: base01 7
+    100016: base01 8
+    100018: base01 9
+    100020: BLOCK_A03_T01
+    100022: BLOCK_ROOM_T01
+    100024: //RootNode
+    100026: M01_BOSS_D0_Forest_LOD100
+    100028: M01_BOSS_D0_Platform_LOD100
+    100030: M01_T01_D0_Forest_LOD100
+    100032: M01_T01_D0_Platform_LOD100
+    100034: M01_T02_D0_Forest_LOD100
+    100036: M01_T02_D0_Platform_LOD100
+    100038: M01_T03_D0_ForestBridge_A_LOD100
+    100040: M01_T03_D0_ForestBridge_LOD100
+    100042: M01_T04_D270_ForestBridge_A_LOD100
+    100044: M01_T04_D270_ForestBridge_LOD100
+    100046: M01_T05_D0_ForestBridge_A_LOD100
+    100048: M01_T05_D0_ForestBridge_LOD100
+    100050: M01_T06_D0_Forest_LOD100
+    100052: M01_T06_D0_ForestBridge_A_LOD100
+    100054: M01_T06_D0_ForestBridge_LOD100
+    100056: M01_T06_D0_Platform_LOD100
+    100058: M01_T06_D180_Forest_LOD100
+    100060: M01_T06_D180_ForestBridge_A_LOD100
+    100062: M01_T06_D180_ForestBridge_LOD100
+    100064: M01_T06_D180_Platform_LOD100
+    100066: M01_T07_D180_ForestBridge_A_LOD100
+    100068: M01_T07_D180_ForestBridge_LOD100
+    100070: M01_T08_D0_ForestBridge_A_LOD100
+    100072: M01_T08_D0_ForestBridge_LOD100
+    100074: M01_T09_D270_ForestBridge_A_LOD100
+    100076: M01_T09_D270_ForestBridge_LOD100
+    100078: Object001
+    400000: base01
+    400002: base01 1
+    400004: base01 2
+    400006: base01 3
+    400008: base01 4
+    400010: base01 5
+    400012: base01 6
+    400014: base01 7
+    400016: base01 8
+    400018: base01 9
+    400020: BLOCK_A03_T01
+    400022: BLOCK_ROOM_T01
+    400024: //RootNode
+    400026: M01_BOSS_D0_Forest_LOD100
+    400028: M01_BOSS_D0_Platform_LOD100
+    400030: M01_T01_D0_Forest_LOD100
+    400032: M01_T01_D0_Platform_LOD100
+    400034: M01_T02_D0_Forest_LOD100
+    400036: M01_T02_D0_Platform_LOD100
+    400038: M01_T03_D0_ForestBridge_A_LOD100
+    400040: M01_T03_D0_ForestBridge_LOD100
+    400042: M01_T04_D270_ForestBridge_A_LOD100
+    400044: M01_T04_D270_ForestBridge_LOD100
+    400046: M01_T05_D0_ForestBridge_A_LOD100
+    400048: M01_T05_D0_ForestBridge_LOD100
+    400050: M01_T06_D0_Forest_LOD100
+    400052: M01_T06_D0_ForestBridge_A_LOD100
+    400054: M01_T06_D0_ForestBridge_LOD100
+    400056: M01_T06_D0_Platform_LOD100
+    400058: M01_T06_D180_Forest_LOD100
+    400060: M01_T06_D180_ForestBridge_A_LOD100
+    400062: M01_T06_D180_ForestBridge_LOD100
+    400064: M01_T06_D180_Platform_LOD100
+    400066: M01_T07_D180_ForestBridge_A_LOD100
+    400068: M01_T07_D180_ForestBridge_LOD100
+    400070: M01_T08_D0_ForestBridge_A_LOD100
+    400072: M01_T08_D0_ForestBridge_LOD100
+    400074: M01_T09_D270_ForestBridge_A_LOD100
+    400076: M01_T09_D270_ForestBridge_LOD100
+    400078: Object001
+    2100000: 01
+    2100002: 02
+    2100004: bridge_01
+    2100006: Bridge_02
+    2300000: BLOCK_A03_T01
+    2300002: BLOCK_ROOM_T01
+    2300004: M01_BOSS_D0_Forest_LOD100
+    2300006: M01_BOSS_D0_Platform_LOD100
+    2300008: M01_T01_D0_Forest_LOD100
+    2300010: M01_T01_D0_Platform_LOD100
+    2300012: M01_T02_D0_Forest_LOD100
+    2300014: M01_T02_D0_Platform_LOD100
+    2300016: M01_T03_D0_ForestBridge_A_LOD100
+    2300018: M01_T03_D0_ForestBridge_LOD100
+    2300020: M01_T04_D270_ForestBridge_A_LOD100
+    2300022: M01_T04_D270_ForestBridge_LOD100
+    2300024: M01_T05_D0_ForestBridge_A_LOD100
+    2300026: M01_T05_D0_ForestBridge_LOD100
+    2300028: M01_T06_D0_Forest_LOD100
+    2300030: M01_T06_D0_ForestBridge_A_LOD100
+    2300032: M01_T06_D0_ForestBridge_LOD100
+    2300034: M01_T06_D0_Platform_LOD100
+    2300036: M01_T06_D180_Forest_LOD100
+    2300038: M01_T06_D180_ForestBridge_A_LOD100
+    2300040: M01_T06_D180_ForestBridge_LOD100
+    2300042: M01_T06_D180_Platform_LOD100
+    2300044: M01_T07_D180_ForestBridge_A_LOD100
+    2300046: M01_T07_D180_ForestBridge_LOD100
+    2300048: M01_T08_D0_ForestBridge_A_LOD100
+    2300050: M01_T08_D0_ForestBridge_LOD100
+    2300052: M01_T09_D270_ForestBridge_A_LOD100
+    2300054: M01_T09_D270_ForestBridge_LOD100
+    2300056: Object001
+    3300000: BLOCK_A03_T01
+    3300002: BLOCK_ROOM_T01
+    3300004: M01_BOSS_D0_Forest_LOD100
+    3300006: M01_BOSS_D0_Platform_LOD100
+    3300008: M01_T01_D0_Forest_LOD100
+    3300010: M01_T01_D0_Platform_LOD100
+    3300012: M01_T02_D0_Forest_LOD100
+    3300014: M01_T02_D0_Platform_LOD100
+    3300016: M01_T03_D0_ForestBridge_A_LOD100
+    3300018: M01_T03_D0_ForestBridge_LOD100
+    3300020: M01_T04_D270_ForestBridge_A_LOD100
+    3300022: M01_T04_D270_ForestBridge_LOD100
+    3300024: M01_T05_D0_ForestBridge_A_LOD100
+    3300026: M01_T05_D0_ForestBridge_LOD100
+    3300028: M01_T06_D0_Forest_LOD100
+    3300030: M01_T06_D0_ForestBridge_A_LOD100
+    3300032: M01_T06_D0_ForestBridge_LOD100
+    3300034: M01_T06_D0_Platform_LOD100
+    3300036: M01_T06_D180_Forest_LOD100
+    3300038: M01_T06_D180_ForestBridge_A_LOD100
+    3300040: M01_T06_D180_ForestBridge_LOD100
+    3300042: M01_T06_D180_Platform_LOD100
+    3300044: M01_T07_D180_ForestBridge_A_LOD100
+    3300046: M01_T07_D180_ForestBridge_LOD100
+    3300048: M01_T08_D0_ForestBridge_A_LOD100
+    3300050: M01_T08_D0_ForestBridge_LOD100
+    3300052: M01_T09_D270_ForestBridge_A_LOD100
+    3300054: M01_T09_D270_ForestBridge_LOD100
+    3300056: Object001
+    4300000: M01_BOSS_D0_Platform_LOD100
+    4300002: M01_BOSS_D0_Forest_LOD100
+    4300004: M01_T02_D0_Platform_LOD100
+    4300006: M01_T02_D0_Forest_LOD100
+    4300008: M01_T03_D0_ForestBridge_A_LOD100
+    4300010: M01_T03_D0_ForestBridge_LOD100
+    4300012: M01_T04_D270_ForestBridge_LOD100
+    4300014: M01_T04_D270_ForestBridge_A_LOD100
+    4300016: M01_T05_D0_ForestBridge_A_LOD100
+    4300018: M01_T05_D0_ForestBridge_LOD100
+    4300020: M01_T06_D0_ForestBridge_LOD100
+    4300022: M01_T06_D0_ForestBridge_A_LOD100
+    4300024: M01_T06_D0_Platform_LOD100
+    4300026: M01_T06_D0_Forest_LOD100
+    4300028: M01_T06_D180_ForestBridge_LOD100
+    4300030: M01_T06_D180_ForestBridge_A_LOD100
+    4300032: M01_T06_D180_Platform_LOD100
+    4300034: M01_T06_D180_Forest_LOD100
+    4300036: M01_T07_D180_ForestBridge_A_LOD100
+    4300038: M01_T07_D180_ForestBridge_LOD100
+    4300040: M01_T08_D0_ForestBridge_A_LOD100
+    4300042: M01_T08_D0_ForestBridge_LOD100
+    4300044: M01_T09_D270_ForestBridge_LOD100
+    4300046: M01_T09_D270_ForestBridge_A_LOD100
+    4300048: BLOCK_ROOM_T01
+    4300050: M01_T01_D0_Forest_LOD100
+    4300052: M01_T01_D0_Platform_LOD100
+    4300054: Object001
+    4300056: BLOCK_A03_T01
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
